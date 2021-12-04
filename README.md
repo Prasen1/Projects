@@ -44,8 +44,8 @@ The SSID and password of the Wi-Fi hotspot has to be entered to which the ESP826
 The above MATLAB code using Thingspeak functions will take the two fields – temperature and humidity and plot them in a 2D graph. This can be used to see the recent changes in temperature and humidity and their relation. Using similar functions, we can-
 
 •	Plot our data
+
 •	Use a histogram to understand variation in data
-•	Visualize directional data with compass plot
-•	Use area plot to compare traffic data sets
+
 •	Visualize our data using MATLAB Toolbox functions
 
